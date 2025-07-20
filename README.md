@@ -36,19 +36,19 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qu4nh&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top-langs" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en&theme=dracula" alt="github-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Qu4nh&show_icons=true&locale=en&theme=dracula" alt="github-stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula" alt="github-streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Qu4nh&theme=dracula" alt="github-streak" />
 </p>
 <br>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Qu4nh&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
