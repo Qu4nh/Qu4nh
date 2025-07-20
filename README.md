@@ -6,7 +6,7 @@
 - 🌱 I'm on the way to learn more about AI, embedded programming and Website
 - ⛓️‍💥 In my free time, I usually DIY what I like, play sports and spend time with my family
 - 📩 You can email me at haquanganh008@gmail.com with the subject "Github: ". It's a pleasure to chat with you!
-- 📄 Check my now page to get to know me a little better.
+- 📄 Check my now page to get to know me a little better
 
 ---
 
