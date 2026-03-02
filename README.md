@@ -26,14 +26,6 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Qu4nh&show_icons=true&locale=en&layout=compact&theme=dracula" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Qu4nh&show_icons=true&locale=en&theme=dracula" alt="github-stats" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Qu4nh&theme=dracula" alt="github-streak" />
 </p>
 <br>
