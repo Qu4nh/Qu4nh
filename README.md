@@ -16,7 +16,7 @@
 
 ### 💻 Tech Stack & Tools
 
-<div align="left">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
